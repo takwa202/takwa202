@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **takwa.lassoued@esprit.tn**
 
-- 📄 Know about my experiences [cv](https://drive.google.com/file/d/1OiAJaXQjAxNBpNKcyH3Mva3sTEALmuG2/view?usp=sharing)
+- 📄 Know about my experiences [cv](https://drive.google.com/file/d/1FBDndIC8LVR_UeAAQtFOejy-Yw9MfqA5/view?usp=sharing)
 
 - ⚡ Fun fact **i am INTP ,Long periods of isolation while enjoying every moment.**
 
