@@ -2,16 +2,17 @@
 
 <h1 align="center">Hi 👋, I'm takwa</h1>
 <h3 align="center">A passionate software engineering student</h3>
-<img align="right" alt="coding meme" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif" >
+
+<img align="right" alt="coding meme" width="400" src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takwa&label=Profile%20views&color=0e75b6&style=flat" alt="takwa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [social media app](https://github.com/takwa202/socialmedia_react_redux)
-
-- 👨‍💻 All of my projects are available at [portfolio still in progress](portfolio still in progress)
-
+[- 🔭 I’m currently working on [social media app](https://github.com/takwa202/socialmedia_react_redux)
+](url[)
+[- 👨‍💻 All of my projects are available at [portfolio still in progress](portfolio still in progress)](url)
+](url)
 - 💬 Ask me about **react,springboot,symfony,angular,.net...**
 
 - 📫 How to reach me **takwa.lassoued@esprit.tn**
