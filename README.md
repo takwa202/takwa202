@@ -9,10 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[- 🔭 I’m currently working on [social media app](https://github.com/takwa202/socialmedia_react_redux)
-](url[)
-[- 👨‍💻 All of my projects are available at [portfolio still in progress](portfolio still in progress)](url)
-](url)
 - 💬 Ask me about **react,springboot,symfony,angular,.net...**
 
 - 📫 How to reach me **takwa.lassoued@esprit.tn**
