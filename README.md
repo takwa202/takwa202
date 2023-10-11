@@ -1,4 +1,3 @@
-[MasterHead]  (https://i.redd.it/g38817mqb1361.png)](http://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm takwa</h1>
 <h3 align="center">A passionate software engineering student</h3>
